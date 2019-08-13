@@ -1,4 +1,4 @@
-# Course Overview?
+# Course Overview
 ## GEOG 590 - Web Mapping
 
 ### Donald J. Biddle
