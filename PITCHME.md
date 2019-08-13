@@ -35,27 +35,27 @@
 **To Bird Scooter usage in Louisville...**
 ![bird scooter map](images/birdmap.PNG) 
 +++
-@css[fragment](Once upon a time, paper maps ruled the day...)@css[fragment](and GIS mapping was the sole domain of expert analysts with expensive workstations and Desktop GIS software.)
+Once upon a time... @css[fragment](paper maps ruled the day...)@css[fragment](and GIS mapping was the sole domain of expert analysts with expensive workstations and Desktop GIS software.)
 +++
-@css[fragment](Access to data, analytical tools, and all the power that geospatial technology can offer was limited to organizations with the funding and resources to acquire them)
-+++
+Access to data, analytical tools, and all the power that geospatial technology can offer was limited to organizations with the funding and resources to acquire them
+
 @css[fragment](A case of the "haves" versus the "have nots")
 +++
-@css[fragment](But with the advent of the Internet and WWW...)@css[fragment](and cheaper, faster, and more capable hardware...)@css[fragment](and especially the ubiquitous smart devices with onboard GPS hardware...)
+But with the advent of the Internet and WWW...@css[fragment](and cheaper, faster, and more capable hardware...)@css[fragment](and especially the ubiquitous smart devices with onboard GPS hardware...)
 +++
-@css[fragment](A **revolution** has occurred...)@css[fragment](where anyone with a smartphone can access the power of GIS, literally at their fingertips, that just 10 years ago was restricted to wealthy and specalized orgs)
+A **revolution** has occurred...@css[fragment](where anyone with a smartphone can access the power of GIS...)@css[fragment]( literally at their **fingertips**,)@css[fragment]( that just 10 years ago was restricted to wealthy and specalized orgs)
 +++
-@css[fragment](It's not just that citizens *can* access sophisticated maps on the web...)@css[fragment](the revolution is that they now **expect** it...)@css[fragment](**demand** it...)@css[fragment](even **deserve** it?)
+It's not just that citizens *can* access sophisticated maps on the web...@css[fragment](the revolution is that they now **expect** it...)@css[fragment](**demand** it...)@css[fragment](even **deserve** it?)
 +++
 This class aims to survey the landscape of maps and geospatial technology on the WWW today...@css[fragment](how we got here...)@css[fragment](how it works...)@css[fragment](and most importantly how **you** can start making maps and GIS applications that are served over the WWW.)
 +++
 The class will take a comprehensive approach to learning the art and science of web mapping
 @ul
-- Video Lectures |
-- Selected Readings |
-- Case studies |
-- Lab Exercises |
-- Project Work |
+- Video Lectures 
+- Selected Readings 
+- Case studies 
+- Lab Exercises 
+- Project Work 
 @ulend 
 +++
 ### What's in a map?
